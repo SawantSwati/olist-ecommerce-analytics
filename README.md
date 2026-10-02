@@ -10,7 +10,10 @@ Olist Brazilian E-Commerce data from Kaggle: 113,390 rows, 95,128 orders, Oct 20
 SQL Server, Python (pandas), Excel, Power BI
 
 ## Business questions
-(add your 10-12 questions here)
+Which payment methods are used, and do installments grow with order value?
+Are a few sellers responsible for most of the revenue?
+When do customers buy (weekday, hour)?
+
 
 ## Key findings
 (add after analysis)
